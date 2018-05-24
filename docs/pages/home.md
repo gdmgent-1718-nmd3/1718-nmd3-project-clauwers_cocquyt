@@ -10,5 +10,7 @@ title: Opdracht NMD-III
 Wie zijn we?
 ------------
 
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
+ - Sarah Cocquyt, 2CMO - Graphic Design
+ - Lisa Clauwers, 2CMO - Graphic Design
+
+<img src="/1718-nmd3-project-cocquyt-clauwers/assets/img/lisasarah.png" width="40%"/>

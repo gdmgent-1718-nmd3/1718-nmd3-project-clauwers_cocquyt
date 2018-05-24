@@ -1,10 +1,9 @@
 ---
 layout   : default
-permalink: design/smartphone-app/wireflow/
+permalink: design/ui-style-guide/knoppen/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Wireflow
+title: Knoppen
 ---
 
-Afbeeldingen invoegen

@@ -1,10 +1,9 @@
 ---
 layout   : default
-permalink: design/smartphone-app/wireflow/
+permalink: design/ui-style-guide/formulieren/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Wireflow
+title: Formulieren
 ---
 
-Afbeeldingen invoegen
