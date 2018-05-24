@@ -14,7 +14,7 @@ Voor het vak NMD3 moeten we een applicatie ontwikkelen waarbij we een museumbezo
 #### 2. Teamleden
 
 
-<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/lisasarah.png" width="40%"/>
+<img src="/1718-nmd3-project-clauwers-cocquyt/assets/img/lisasarah.png" width="40%"/>
 
 Lisa Clauwers en Sarah Cocquyt
 
