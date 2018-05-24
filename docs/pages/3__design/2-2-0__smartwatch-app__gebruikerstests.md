@@ -15,7 +15,7 @@ afbeelding invoegen
 <div class="grijs2">
 <div class="row">
     <div class="col-sm-6">
-        <img src="/1718-nmd3-project-cocquyt-clauwers/assets/img/oma2.jpg" width="99%"/>
+        <img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/oma2.jpg" width="99%"/>
     </div>
     <div class="col-sm-6">
     <p class="persona"> SOCIAAL </p>
@@ -53,7 +53,7 @@ Nadine kan voor haar leeftijd redelijk goed overweg met technologie. Het duurde 
 <div class="grijs2">
 <div class="row">
     <div class="col-sm-6">
-        <img src="/1718-nmd3-project-cocquyt-clauwers/assets/img/katrijn.jpg" width="99%"/>
+        <img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/katrijn.jpg" width="99%"/>
     </div>
     <div class="col-sm-6">
     <p class="persona"> LEERGIERIG </p>

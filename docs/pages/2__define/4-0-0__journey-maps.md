@@ -13,7 +13,7 @@ title: Journey Maps
 <div class="grijs">
 <div class="row">
     <div class="col-sm-6">
-        <img src="/1718-nmd3-project-cocquyt-clauwers/assets/img/oma.jpg" width="98%"/>
+        <img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/oma.jpg" width="98%"/>
     </div>
     <div class="col-sm-6">
     <p class="persona"> SOCIAAL </p>
@@ -89,7 +89,7 @@ Fabienne en haar kleinkinderen komen op een woensdagnamiddag het MIM in Brussel 
 <div class="grijs">
 <div class="row">
     <div class="col-sm-6">
-        <img src="/1718-nmd3-project-cocquyt-clauwers/assets/img/cello.jpg" width="98%"/>
+        <img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/cello.jpg" width="98%"/>
     </div>
     <div class="col-sm-6">
     <p class="persona"> LEERGIERIG </p>

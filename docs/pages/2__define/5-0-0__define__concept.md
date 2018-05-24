@@ -38,7 +38,7 @@ Om het bezoek aan het MIM te optimaliseren komen wij met een nieuwe app op de ma
 
 #### 2. Elevator Pitch 
 
-<img src="/1718-nmd3-project-cocquyt-clauwers/assets/img/pitch1.png" width="100%"/>
-<img src="/1718-nmd3-project-cocquyt-clauwers/assets/img/pitch2.png" width="100%"/>
-<img src="/1718-nmd3-project-cocquyt-clauwers/assets/img/pitch3.png" width="100%"/>
+<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/pitch1.png" width="100%"/>
+<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/pitch2.png" width="100%"/>
+<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/pitch3.png" width="100%"/>
 

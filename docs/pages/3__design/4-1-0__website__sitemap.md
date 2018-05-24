@@ -7,4 +7,4 @@ published: true
 title: Sitemap
 ---
 
-<img src="/1718-nmd3-project-cocquyt-clauwers/assets/img/sitemap.png" class="sitemap" width="100%"/>
+<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/sitemap.png" class="sitemap" width="100%"/>

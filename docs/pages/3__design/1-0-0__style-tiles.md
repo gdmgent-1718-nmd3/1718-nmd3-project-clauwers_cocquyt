@@ -13,9 +13,9 @@ title: Style Tiles
 
 #### 2. Alternatief 1
 
-<img src="/1718-nmd3-project-cocquyt-clauwers/assets/img/tile2.png" class="styletile" width="100%"/>
+<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/tile2.png" class="styletile" width="100%"/>
 
 
 #### 3. Alternatief 2
 
-<img src="/1718-nmd3-project-cocquyt-clauwers/assets/img/tile3.png" class="styletile" width="100%"/>
+<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/tile3.png" class="styletile" width="100%"/>
