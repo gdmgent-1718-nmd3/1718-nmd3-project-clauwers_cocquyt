@@ -9,7 +9,7 @@ title: Style Tiles
 
 #### 1. Gekozen
 
-<img src="/1718-nmd3-project-cocquyt-clauwers/assets/img/tile1.png" class="styletile" width="100%"/>
+<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/tile1.png" class="styletile" width="100%"/>
 
 #### 2. Alternatief 1
 
