@@ -47,7 +47,7 @@ We testen het paper prototype uit met de oma van Sarah, Nadine. Zij heeft in gro
 
 Nadine kan voor haar leeftijd redelijk goed overweg met technologie. Het duurde dan ook niet lang tegen dat ze het prototype snapte. Wij keken hoe ze de papieren smartwatch analyseerde en noteerden onze bevindingen. Bij de tweede pagina van het prototype merkten we verwarring bij Nadine. Ze verklaarde dat ze niet begreep voor wat de icoontjes stonden van ‘forum’, ‘bibliotheek’ en 'mijn muziek'. Voor zowel forum als voor bibliotheek is er niet echt een universeel icoon dat mensen direct begrijpen, dus we pasten dit direct aan door de icoontjes te vervangen door tekst. Nadien begreep ze alles meteen. Ze vond het pluspunt dat het prototype simpel was en niet de weg kwijtraakte in allemaal nieuwe pagina’s. 
 
-<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/paper2.png" width="40%"/>
+<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/paper2.png" width="50%"/>
 
 #### 3. Gebruikerstest 2
 
