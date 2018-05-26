@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Wireframes
 ---
+
+<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/wireframesite.png" width="100%"/>

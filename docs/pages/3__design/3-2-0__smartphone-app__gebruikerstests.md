@@ -7,11 +7,7 @@ published: true
 title: Gebruikerstests
 ---
 
-#### 1. Digital Prototype
-
-Afbeelding invoegen
-
-#### 2. Gebruikerstest 1 
+#### 1. Gebruikerstest 1 
 
 <div class="grijs2">
 <div class="row">
@@ -47,7 +43,7 @@ Afbeelding invoegen
 Dit prototype testen we uit met dezelfde testpersoon als in punt 3.3.1.. De oma van Sarah, Nadine, heeft in grote lijnen hetzelfde demografisch profiel als de fictieve Fabienne Van den Berghe uit opdracht 01. 
 Nadine bekeek het prototype van de smartphone aandachtig. Na de inlogpagina kwam ze op de scanpagina. Daarvan begreep ze niet goed wat de bedoeling was. Toen we zeiden dat ze daarmee een QR-code moest scannen, vertelde ze dat ze daar nog nooit van had gehoord. We besloten hieruit dat men best in het museum handleidingen omhoog hangt, die duidelijk maakt wat een QR-code is en hoe je zo’n code scant. Leeftijdsgenoten van Nadine, of anderen die nog nooit van een QR-code gehoord hebben, zullen hier baat bij hebben. Verder was voor Nadine alles duidelijk. 
 
-#### 3. Gebruikerstest 1 
+#### 2. Gebruikerstest 1 
 
 <div class="grijs2">
 <div class="row">

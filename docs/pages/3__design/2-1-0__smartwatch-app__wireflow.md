@@ -7,8 +7,8 @@ published: true
 title: Wireflow
 ---
 
-#### Wireflow op papier
+#### Wireflow 
 
-Afbeelding invoegen
+<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/prototypepapier.png" width="100%"/>
 
 
