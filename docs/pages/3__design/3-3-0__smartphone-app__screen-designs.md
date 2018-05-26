@@ -7,6 +7,12 @@ published: true
 title: Screen Designs
 ---
 
+Download hier de Adobe XD file: <a href="/1718-nmd3-project-clauwers_cocquyt/assets/img/smartphonemim.xd" download>  Wireflow van visuals (Smartphone) </a>
+
+Bekijk hieronder de video van de wireflow met de visuals voor de smartphone: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A3G-9qGhKqA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 #### Startscherm
 <img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/sp/spstartpagina.png" width="45%" class="visualssmartphone"/>
 
