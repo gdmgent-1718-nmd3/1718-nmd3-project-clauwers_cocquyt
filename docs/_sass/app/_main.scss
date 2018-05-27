@@ -147,7 +147,7 @@ h2 {
   font-size: 30px; 
 }
 .wit2 {
-  border: 1px solid black;
+  border: 3px solid black;
 }
 
 
@@ -206,9 +206,29 @@ body {
 }
 
 .container4 { 
-  width: 300px;
-  height: 600px;
+  width: 310px;
+  height: 560px;
   padding: 30px;
-  background-color: #405EA9;
-  border-radius: 14px;
+  background-color: #262D3E;
+  border-radius: 40px;
+  font-family: 'Montserrat';
+  color: #61B775;
+  font-size: 14px;
 }
+
+.titel { 
+  color: white;
+  padding-bottom: 50px;
+  text-align: center;
+  font-size: 25px;
+}
+
+input { 
+  border-radius: 20px;
+  width: 250px;
+  height: 40px;
+  font-size: 8px;
+  padding-left: 10px;
+  margin-bottom: 9px;
+}
+
