@@ -92,7 +92,7 @@ h2 {
 }
 
 .font3 { 
-  
+  font-family: 'Montserrat';
   font-size: 20px;
 }
 
@@ -144,10 +144,11 @@ h2 {
 .wit {
   font-family: 'Montserrat';
   text-align: center;
-  font-size: 30px;
-  color: black;
+  font-size: 30px; 
 }
-
+.wit2 {
+  border: 1px solid black;
+}
 
 
 
@@ -189,3 +190,25 @@ body {
   margin-right: 15px;
 }
 
+
+.col1 { 
+  width: 200px;
+}
+
+.col2 { 
+  width: 400px;
+  text-align: center;
+}
+
+.col3 { 
+  padding-right: 30px;
+  width: 700px;
+}
+
+.container4 { 
+  width: 300px;
+  height: 600px;
+  padding: 30px;
+  background-color: #405EA9;
+  border-radius: 14px;
+}

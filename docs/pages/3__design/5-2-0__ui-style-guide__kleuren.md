@@ -9,7 +9,7 @@ title: Kleuren
 
 <div class="c">
 
-  <div class="container3 wit">
+  <div class="container3 wit2">
     <div class="top">
     </div>
     <div class="wit">
