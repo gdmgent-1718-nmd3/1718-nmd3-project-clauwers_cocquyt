@@ -10,7 +10,7 @@ Bekijk hieronder de video van de wireflow met de visuals voor de smartwatch:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uGZ0HsL2y04" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### Startscherm
-<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/sw/startscherm.png" width="45%" class="visualssmart"/>
+<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/sw/start.png" width="45%" class="visualssmart"/>
 
 #### Homepage
 <img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/sw/home.png" width="45%" class="visualssmart"/>

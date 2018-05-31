@@ -30,7 +30,7 @@ title: Formulieren
       <label for="pwd">Herhaal wachtwoord</label>
       <input type="password" class="form-control" class="pwd" placeholder="Herhaal hier je wachtwoord" name="pwd">
     </div>
-    <button type="submit" class="btn btn-success">VERDER</button>
+    <button class="button2"> VERDER </button>
   </form>
 </div>
 </div>
@@ -48,7 +48,7 @@ title: Formulieren
       <label for="pwd" class="pwd">Wachtwoord</label>
       <input type="password" class="form-control" class="pwd" placeholder="Typ hier je wachtwoord" name="pwd">
     </div>
-    <button type="submit" class="btn btn-success">VERDER</button>
+    <button class="button2"> VERDER </button>
   </form>
 </div>
 </div>

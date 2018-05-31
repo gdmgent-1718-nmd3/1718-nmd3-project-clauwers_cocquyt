@@ -92,17 +92,20 @@ h2 {
 }
 
 .font3 { 
-  font-family: 'Montserrat';
+  font-weight: 300;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
   font-size: 20px;
 }
 
 .font4 { 
-  font-family: 'Montserrat';
+  font-weight: 600;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
   font-size: 20px;
 }
 
 .font5 { 
-  font-family: 'Montserrat';
+  font-weight: 800;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
   font-size: 20px;
 }
 
@@ -202,6 +205,7 @@ body {
 
 .col3 { 
   padding-right: 30px;
+  padding-left: 30px;
   width: 700px;
 }
 
@@ -230,5 +234,41 @@ input {
   font-size: 8px;
   padding-left: 10px;
   margin-bottom: 9px;
+}
+
+
+.button {
+  background-color: #61B775;
+  border: none;
+  color: white;
+  width: 300px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  font-family: 'Montserrat';
+  font-size: 20px;
+  border-radius: 39px
+}
+
+
+.button2 {
+  background-color: #61B775;
+  border: none;
+  color: white;
+  width: 130px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  font-family: 'Montserrat';
+  font-size: 15px;
+  border-radius: 39px
 }
 
