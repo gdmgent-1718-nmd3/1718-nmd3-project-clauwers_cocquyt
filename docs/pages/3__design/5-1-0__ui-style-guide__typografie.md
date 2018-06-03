@@ -21,7 +21,7 @@ title: Typografie
     </tr>
 </table>
 
-<h4 class="ui">DIT IS EEN TITEL OP NIVEAU 1</h4>
+<div class="een">DIT IS EEN TITEL OP NIVEAU 1</div>
 - Titel van de pagina aangeven
 - Bij de smartphone wordt dit ook gebruikt voor keuzeknoppen van de homepage
 - Kleur: wit, #FFFFFF (geplaatst worden op een donkere foto)  
@@ -29,15 +29,22 @@ title: Typografie
 - Smartphone: Montserrat 30pt Bold
 - Smartwatch: Montserrat 24pt Bold
 
-<h6 class="ui2">DIT IS EEN TITEL OP NIVEAU 2</h6>
+<div class="twee">DIT IS EEN TITEL OP NIVEAU 2</div>
 - Enkel van toepassing bij de smartphone op de pagina's: 'forum' en 'mijn muziek'. 
 - Kleur: groen, #61B775
 - Kapitalen
 - Montserrat 20pt Bold
 
-Dit is een paragraaf tekst
+<div class="vier">Dit is een tussentitel bij doorlopende tekst</div>
+- Enkel van toepassing bij de smartphone 
+- Kleur: groen, #61B775
+- Montserrat 14pt Bold
+
+
+<div class="drie">Zo ziet doorlopende tekst eruit.</div>
 - Enkel van toepassing bij de smartphone 
 - Montserrat 12pt Regular
+
 
 
 

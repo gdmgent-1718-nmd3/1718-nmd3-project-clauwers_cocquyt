@@ -17,18 +17,6 @@ title: Kleuren
     </div>
   </div>
 
-- Smartphone: 
-  - titels van niveau 1
-  - Logo MIM
-  - Icoon hamburgermenu 
-  - De niet actieve knoppen onderaan in de navigatiebalk
-  - achtergrondkleur van de invulvelden in de formulieren
-  - Alle tekst
-- Smartwatch: 
-  - titels van niveau 1
-  - Logo MIM
-  - Alle tekst
-
 
   <div class="container2 green">
     <div class="top">
@@ -54,3 +42,44 @@ title: Kleuren
     </div>
   </div>
 </div>
+
+
+#### #FFFFFF
+- Smartphone: 
+  - titels van niveau 1
+  - Logo MIM
+  - Icoon hamburgermenu 
+  - De niet actieve knoppen onderaan in de navigatiebalk
+  - achtergrondkleur van de invulvelden in de formulieren
+  - Alle tekst
+- Smartwatch: 
+  - Titels van niveau 1
+  - Logo MIM
+  - Alle tekst
+
+#### #61B775
+- Smartphone: 
+  - Titels van niveau 2
+  - Tussentitels bij doorlopende tekst
+  - Algemene knoppen
+  - De cijfers die je moet intoetsen bij de instrumenten
+  - Like button
+  - Afspeelbalk bij liedjes
+- Smartwatch: 
+  - Pijltje op terug te keren naar vorige pagina
+  - Algemene knoppen
+  - Like button
+  - Afspeelbalk bij liedjes
+
+#### #262D3E
+- Smartphone: 
+  - Achtergrondkleur
+- Smartwatch: 
+   - Achtergrondkleur
+
+
+#### #000000
+- Smartphone: 
+  - Tekst op witte vlakken
+- Smartwatch: 
+  - Tekst op witte vlakken

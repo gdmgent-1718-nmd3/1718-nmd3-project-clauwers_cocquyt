@@ -328,9 +328,6 @@ input {
   color: white;
 }
 
-
-
-
 .switch {
   position: relative;
   display: inline-block;
@@ -387,4 +384,114 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
+
+
+
+
+
+
+.knoppen {
+  display: inline-block;
+}
+
+.fab { 
+  margin-left: 50px;
+}
+
+.fas { 
+  margin-left: 50px;
+}
+
+.far { 
+  margin-left: 50px;
+}
+
+
+.formulier { 
+  padding-bottom: 380px;
+}
+
+.xd { 
+  position: relative;
+  display: inline-block;
+}
+
+.navigatieknoppen { 
+  position: relative;
+  display: inline-block;
+  font-family: 'Montserrat';
+  color: black;
+  text-align: center;
+  font-size: 11px;
+  background-color: #262D3E;
+  width: 380px;
+  padding-top: 130px;
+  margin-bottom: 70px;
+}
+
+.box1 { 
+  background-color: white;
+  position: relative;
+  float:left;
+  margin-left:20px;
+  margin-right: 20px;
+  padding: 28px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  padding-bottom: 44px;
+
+}
+
+.box2 { 
+  background-color: white;
+  position: relative;
+  float:left;
+  margin-right: 20px;
+  padding: 28px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  padding-bottom: 44px;
+}
+
+.box3 { 
+  background-color: white;
+  padding: 28px;
+  position: relative;
+  float:left;
+  margin-right: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.een { 
+  font-family: 'Montserrat';
+  font-size: 30px;
+  margin-bottom: 10px;
+  margin-top: 60px;
+}
+
+.twee { 
+  font-family: 'Montserrat';
+  font-size: 20px;
+  color: #61B775;
+  margin-bottom: 10px;
+  margin-top: 40px;
+}
+
+.drie { 
+  font-family: 'Montserrat';
+  font-size: 17px;
+  margin-bottom: 10px;
+  margin-top: 40px;
+}
+
+.vier { 
+  font-family: 'Montserrat';
+  font-size: 20px;
+  margin-bottom: 10px;
+  margin-top: 40px;
+  font-weight: 600;
+  color: #61B775;
+}
+
 
