@@ -71,14 +71,14 @@ title: Formulieren
       </div>
     <div class="form-group">
       <label for="email">E-mailadres</label>
+      </div>
       <input type="email" class="form-control" class="pwd" placeholder="Typ hier je e-mailadres" name="email">
       <button class="button3"> OPSLAAN </button>
-      </div>
     <div class="form-group">
       <label for="pwd">Wachtwoord</label>
+      </div>
       <input type="password" class="form-control" class="pwd" placeholder="Typ hier je wachtwoord" name="pwd">
       <button class="button3"> OPSLAAN </button>
-      </div>
       <div class="form-group">
         <label for="pwd">Taal</label>
         </div>

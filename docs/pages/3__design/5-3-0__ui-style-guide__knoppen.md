@@ -25,14 +25,13 @@ title: Knoppen
     <span class="slider round"> </span>
 </label>
 
-<i class="fas fa-bars fa-3x"> </i>
-<i class="fab fa-facebook-f fa-3x"> </i>
-<i class="fab fa-instagram fa-3x"> </i>
-<i class="fab fa-twitter fa-3x"> </i>
-<i class="fas fa-play fa-3x"> </i>
-<i class="fas fa-pause fa-3x"> </i>
-<i class="fas fa-heart fa-3x"> </i>
-<i class="far fa-heart fa-3x"> </i>
+<i class="fas fa-bars fa-2x"> </i>
+<i class="fab fa-facebook-f fa-2x"> </i>
+<i class="fab fa-instagram fa-2x"> </i>
+<i class="fab fa-twitter fa-2x"> </i>
+<i class="fas fa-play fa-2x"> </i>
+<i class="fas fa-pause fa-2x"> </i>
+<i class="far fa-heart fa-2x"> </i>
 </div>
 
 #### Navigatieknoppen
