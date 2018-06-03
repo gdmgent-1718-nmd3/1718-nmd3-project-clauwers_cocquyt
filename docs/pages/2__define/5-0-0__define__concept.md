@@ -10,7 +10,11 @@ title: Concept
 #### 1. Uitleg concept
 ##### 1.1 Algemeen 
 
-Om het bezoek aan het MIM te optimaliseren komen wij met een nieuwe app op de markt. Deze app biedt de mogelijkheid om naast het bekijken van de instrumenten ze ook zelf te bespelen. Bij verschillende instrumenten is er een kaartje aanwezig dat aangeeft welke tonen gespeeld moeten worden. Alle gespeelde tonen worden steeds opgenomen en vormen aan het einde van het bezoek een lied.
+Om het bezoek aan het MIM te optimaliseren komen wij met een nieuwe app op de markt. Deze app biedt de mogelijkheid om naast het bekijken van de instrumenten ze ook zelf te bespelen. Bij verschillende instrumenten is er een kaartje aanwezig die aangeeft welke tonen gespeeld moeten worden. Alle gespeelde tonen worden steeds opgenomen en vormen aan het einde van het bezoek een lied. 
+
+De tonen die je moet intoetsen om een liedje te componeren, maken we duidelijk door middel van nummers. Bij een gitaar bijvoorbeeld, staat op elke snaar een nummer. Je tikt de snaren aan in dezelfde volgorde als op het plaatje aangegeven staat. Hieronder zie je een voorbeeld van een kaartje dat naast een instrument kan hangen.
+
+<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/plaatje.png" width="100%"/>
 
 ##### 1.2 Werking smartphone
 

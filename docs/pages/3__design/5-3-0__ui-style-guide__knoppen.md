@@ -14,3 +14,10 @@ title: Knoppen
 <button class="button"> INLOGGEN </button> 
 <button class="button"> REGISTREREN </button>
 <button class="button"> SAMENVOEGEN </button>  
+
+<h4>Nederlands 
+<label class="switch">
+    <input type="checkbox" checked>
+    <span class="slider round"> </span>
+</label>
+Frans </h4>

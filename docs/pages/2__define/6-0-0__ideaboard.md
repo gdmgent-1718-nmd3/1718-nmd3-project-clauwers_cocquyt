@@ -11,9 +11,9 @@ title: Ideaboard
 
 <div class="galery">
   <div class="item"><img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/id1.jpg"/></div>
-  <div class="item"><img src="https://picsum.photos/600/1000/?random?image=3" alt=""></div>
+   <div class="item"><img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/idboard11.jpeg"/></div>
   <div class="item"><img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/id5.jpg"/></div>
-  <div class="item"><img src="https://picsum.photos/1000/1000/?random?image=4" alt=""></div>
+ <div class="item"><img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/idboard10.jpeg"/></div>
   <div class="item"><img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/idboard1.png"/></div>
   <div class="item"><img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/id7.jpg"/></div>
   <div class="item"><img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/idboard3.png"/></div>

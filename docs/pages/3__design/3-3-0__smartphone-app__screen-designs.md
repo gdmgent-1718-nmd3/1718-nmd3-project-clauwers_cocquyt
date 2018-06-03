@@ -30,6 +30,10 @@ Bekijk hieronder de video van de wireflow met de visuals voor de smartphone:
 #### Scannen
 <img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/sp/spscan1.png" width="45%" class="visualssmartphone"/>
 <img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/sp/spscan2.png" width="45%" class="visualssmartphone"/>
+<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/scan2a.png" width="45%" class="visualssmartphone"/>
+<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/scan2b.png" width="45%" class="visualssmartphone"/>
+<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/scan2c.png" width="45%" class="visualssmartphone"/>
+<img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/scan2d.png" width="45%" class="visualssmartphone"/>
 <img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/sp/spscan3.png" width="45%" class="visualssmartphone"/>
 <img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/sp/spscan4.png" width="45%" class="visualssmartphone"/>
 <img src="/1718-nmd3-project-clauwers_cocquyt/assets/img/sp/spscan5.png" width="45%" class="visualssmartphone"/>
