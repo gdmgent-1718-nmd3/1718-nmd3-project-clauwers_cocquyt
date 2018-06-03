@@ -17,6 +17,19 @@ title: Kleuren
     </div>
   </div>
 
+- Smartphone: 
+  - titels van niveau 1
+  - Logo MIM
+  - Icoon hamburgermenu 
+  - De niet actieve knoppen onderaan in de navigatiebalk
+  - achtergrondkleur van de invulvelden in de formulieren
+  - Alle tekst
+- Smartwatch: 
+  - titels van niveau 1
+  - Logo MIM
+  - Alle tekst
+
+
   <div class="container2 green">
     <div class="top">
     </div>
